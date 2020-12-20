@@ -1,6 +1,6 @@
-# machine Test
+# Machine Test
 
-A new Flutter project.
+Using Firebase and flutter
 
 ## Screen shot 
 1. login screen we have option to login using phone number and google 
